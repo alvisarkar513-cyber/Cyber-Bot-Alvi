@@ -11,7 +11,7 @@
   "PASSWORD": "your_password",
   "OTPKEY": "",
   "BOTNAME": "Cyber-Bot-Alvi",
-  "PREFIX": "/",
+  "PREFIX": "!",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
